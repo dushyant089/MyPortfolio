@@ -10,31 +10,16 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="font-sans bg-gradient-to-br from-gray-900 via-black to-gray-800 
-    dark:from-white dark:via-gray-100 dark:to-gray-200 text-white dark:text-black scroll-smooth">
-      
-      {/* Navbar */}
+    <div className="portfolio-app">
       <Navbar />
-
-      {/* Hero Section */}
-      <Hero />
-
-      {/* About Section */}
-      <About />
-
-      {/* Skills Section */}
-      <Skills />
-
-      {/* Projects Section */}
-      <Projects />
-
-      {/* Education Section */}
-      <Education />
-
-      {/* Contact Section */}
-      <Contact />
-
-      {/* Footer */}
+      <main>
+        <Hero />
+        <About />
+        <Skills />
+        <Projects />
+        <Education />
+        <Contact />
+      </main>
       <Footer />
     </div>
   );
