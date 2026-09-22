@@ -123,7 +123,7 @@ const Contact = () => {
 
             {/* Email */}
             <a
-              href="mailto:dushyantrajput@gmail.com"
+              href="mailto:dushyantrajput672@gmail.com"
               className="group flex items-center gap-4 p-5 rounded-2xl border border-white/10 bg-white/[0.025] hover:border-cyan-400/30 hover:bg-cyan-400/[0.03] transition-all"
             >
               <div className="w-12 h-12 rounded-xl flex items-center justify-center bg-cyan-400/10 border border-cyan-400/20 text-cyan-400 text-xl">
@@ -133,7 +133,7 @@ const Contact = () => {
               <div>
                 <p className="text-xs text-gray-500 mb-1">Email</p>
                 <p className="text-sm sm:text-base text-gray-300 group-hover:text-cyan-300 transition-colors">
-                  dushyantrajput@gmail.com
+                  dushyantrajput672@gmail.com
                 </p>
               </div>
             </a>
@@ -181,7 +181,7 @@ const Contact = () => {
                 </a>
 
                 <a
-                  href="mailto:dushyantrajput@gmail.com"
+                  href="mailto:dushyantrajput672@gmail.com"
                   aria-label="Email"
                   className="w-12 h-12 rounded-xl flex items-center justify-center border border-white/10 bg-white/[0.03] text-gray-400 hover:text-cyan-400 hover:border-cyan-400/40 hover:bg-cyan-400/5 transition-all"
                 >

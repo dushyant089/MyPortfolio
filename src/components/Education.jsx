@@ -11,7 +11,6 @@ const Education = () => {
     {
       degree: "Bachelor of Science (B.Sc.)",
       university: "Chaudhary Charan Singh University, Meerut",
-      year: "2021 – 2024",
       status: "Completed",
     },
   ];

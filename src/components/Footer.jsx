@@ -42,7 +42,7 @@ const Footer = () => {
           <div className="flex items-center gap-3">
 
             <a
-              href="mailto:dushyantrajput@gmail.com"
+              href="mailto:dushyantrajput672@gmail.com"
               aria-label="Email"
               className="w-11 h-11 rounded-xl flex items-center justify-center border border-white/10 bg-white/[0.02] text-gray-500 hover:text-cyan-400 hover:border-cyan-400/40 hover:bg-cyan-400/5 transition-all"
             >
